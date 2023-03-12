@@ -1,0 +1,21 @@
+  .hljs {color:#2f3337;}
+  .hljs-comment{color:#656e77}.hljs-attr,.hljs-doctag,.hljs-keyword,.hljs-meta,.hljs-meta-keyword,.hljs-section,.hljs-selector-class,.hljs-selector-pseudo,.hljs-selector-tag{color:#015692}
+  .hljs-attribute{color:#803378}
+  .hljs-built_in,.hljs-literal,.hljs-name,.hljs-number,.hljs-quote,.hljs-selector-id,.hljs-template-tag,.hljs-title,.hljs-type{color:#b75501}
+  .hljs-link,.hljs-meta-string,.hljs-regexp,.hljs-selector-attr,.hljs-string,.hljs-symbol,.hljs-template-variable,.hljs-variable{color:#54790d}
+  .hljs-bullet,.hljs-code{color:#535a60}
+  .hljs-deletion{color:#c02d2e}
+  .hljs-addition{color:#2f6f44}
+  .hljs-emphasis{font-style:italic}
+  .hljs-strong{font-weight:700}
+  .darkmode .hljs-title{color:#fad000;font-weight:400}.darkmode .hljs-name{color:#a1feff}
+  .darkmode .hljs-tag{color:#fff}
+  .darkmode .hljs-attr{color:#f8d000;}
+  .darkmode .hljs-built_in,.darkmode .hljs-section,.darkmode .hljs-selector-tag{color:#fb9e00}
+  .darkmode .hljs-keyword{color:#fb9e00}
+  .darkmode .hljs,.darkmode .hljs-subst{color:#e3dfff}
+  .darkmode .hljs-addition,.darkmode .hljs-attribute,.darkmode .hljs-bullet,.darkmode .hljs-code,.darkmode .hljs-deletion,.darkmode .hljs-quote,.darkmode .hljs-regexp,.darkmode .hljs-selector-attr,.darkmode .hljs-selector-class,.darkmode .hljs-selector-pseudo,.darkmode .hljs-string,.darkmode .hljs-symbol,.darkmode .hljs-template-tag{color:#4cd213}
+  .darkmode .hljs-meta,.darkmode .hljs-meta-string{color:#fb9e00}.darkmode .hljs-comment{color:#ac65ff}
+  .darkmode .hljs-keyword,.darkmode .hljs-literal,.darkmode .hljs-name,.darkmode .hljs-selector-tag,.darkmode .hljs-strong{font-weight:400}
+  .darkmode .hljs-literal,.darkmode .hljs-number{color:#fa658d}
+  .darkmode .hljs-emphasis{font-style:italic}
